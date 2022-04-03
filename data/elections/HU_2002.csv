@@ -1,0 +1,257 @@
+Region,Year,Party,FirstRoundVotes,FirstRoundVotesPercentage,SecondRoundVotes,SecondRoundVotesPercentage,SingleMemberSeats,ListVotes,ListVotesPercentage,ListSeats,NationalListSeats,TotalSeats
+,2002,Registered Electors,8061101,,6018069,,,8061101,,,,
+,2002,Voters,5685655,70.5,4423806,73.5,,5685655,70.5,,,
+,2002,Invalid Ballots,55863,1.0,26963,0.6,,63897,1.1,,,
+,2002,Valid Votes,5624595,99.0,4395458,99.4,,5616750,98.9,,,
+,2002,Fidesz-MDF,2217755,39.4,2196540,50.0,95,2306763,41.1,67,26,188
+,2002,Hungarian Socialist Party (MSZP),2277737,40.5,2011845,45.8,78,2361997,42.1,69,31,178
+,2002,Alliance of Free Democrats (SZDSZ),380982,6.8,126966,2.9,2,313084,5.6,4,13,19
+,2002,MSZP-SZDSZ joint candidates,27892,0.5,13101,0.3,1,-,-,-,-,1
+,2002,Hungarian Justice and Life Party (MI&Eacute;P),257430,4.6,325,0.0,0,245326,4.4,0,0,0
+,2002,Center of Solidarity for Hungary (OMC),182253,3.2,5280,0.1,0,219029,3.9,0,0,0
+,2002,Workers' Party (MP),108732,1.9,-,-,0,121503,2.2,0,0,0
+,2002,Independent Smallholders' Party (FKgP),67401,1.2,692,0.0,0,42338,0.8,0,0,0
+,2002,MSZP-MSZDP joint candidates,41461,0.7,40709,0.9,0,-,-,-,-,0
+,2002,Others,62952,1.1,-,-,0,6710,0.1,0,0,0
+01,2002,Registered Electors,1424266,,934700,,,1424266,,,,
+01,2002,Voters,1104142,77.5,731594,78.3,,1104142,77.5,,,
+01,2002,Invalid Ballots,8765,0.8,3467,0.5,,9541,0.9,,,
+01,2002,Valid Votes,1093855,99.2,727722,99.5,,1093194,99.1,,,
+01,2002,Hungarian Socialist Party (MSZP),480979,44.0,351352,48.3,27,482323,44.1,13,,40
+01,2002,Fidesz-MDF,346004,31.6,320644,44.1,4,345181,31.6,9,,13
+01,2002,Alliance of Free Democrats (SZDSZ),117766,10.8,54148,7.4,1,104474,9.6,3,,4
+01,2002,Hungarian Justice and Life Party (MI&Eacute;P),77121,7.1,325,0.0,0,76063,7.0,0,,0
+01,2002,Center of Solidarity for Hungary (OMC),50674,4.6,1253,0.2,0,62563,5.7,0,,0
+01,2002,Workers' Party (MP),18102,1.7,-,-,0,19636,1.8,0,,0
+01,2002,Independent Smallholders' Party (FKgP),1719,0.2,-,-,0,2954,0.3,0,,0
+01,2002,Others,1490,0.1,-,-,0,-,-,-,,0
+02,2002,Registered Electors,324247,,230550,,,324247,,,,
+02,2002,Voters,232860,71.8,171429,74.4,,232860,71.8,,,
+02,2002,Invalid Ballots,2204,0.9,1057,0.6,,2450,1.1,,,
+02,2002,Valid Votes,230494,99.1,170339,99.4,,230243,98.9,,,
+02,2002,Hungarian Socialist Party (MSZP),105342,45.7,87912,51.6,4,107584,46.7,3,,7
+02,2002,Fidesz-MDF,81447,35.3,82427,48.4,3,88856,38.6,3,,6
+02,2002,Alliance of Free Democrats (SZDSZ),16297,7.1,-,-,0,11693,5.1,0,,0
+02,2002,Center of Solidarity for Hungary (OMC),6921,3.0,-,-,0,7827,3.4,0,,0
+02,2002,Hungarian Justice and Life Party (MI&Eacute;P),7784,3.4,-,-,0,7113,3.1,0,,0
+02,2002,Workers' Party (MP),5716,2.5,-,-,0,5665,2.5,0,,0
+02,2002,Independent Smallholders' Party (FKgP),2163,0.9,-,-,0,1505,0.7,0,,0
+02,2002,Others,4824,2.1,-,-,0,-,-,-,,0
+03,2002,Registered Electors,433352,,348140,,,433352,,,,
+03,2002,Voters,281469,65.0,250785,72.0,,281469,65.0,,,
+03,2002,Invalid Ballots,3171,1.1,1610,0.6,,3600,1.3,,,
+03,2002,Valid Votes,278059,98.9,249102,99.4,,277625,98.7,,,
+03,2002,Fidesz-MDF,125650,45.2,142806,57.3,10,138356,49.8,4,,14
+03,2002,Hungarian Socialist Party (MSZP),99986,36.0,91401,36.7,0,98827,35.6,3,,3
+03,2002,Alliance of Free Democrats (SZDSZ),16922,6.1,14895,6.0,0,12154,4.4,0,,0
+03,2002,Hungarian Justice and Life Party (MI&Eacute;P),11604,4.2,-,-,0,10038,3.6,0,,0
+03,2002,Center of Solidarity for Hungary (OMC),7344,2.6,-,-,0,8692,3.1,0,,0
+03,2002,Workers' Party (MP),4334,1.6,-,-,0,5404,1.9,0,,0
+03,2002,Independent Smallholders' Party (FKgP),8278,3.0,-,-,0,4154,1.5,0,,0
+03,2002,Others,3941,1.4,-,-,0,-,-,-,,0
+04,2002,Registered Electors,317634,,317481,,,317634,,,,
+04,2002,Voters,212468,66.9,225075,70.9,,212468,66.9,,,
+04,2002,Invalid Ballots,2766,1.3,1952,0.9,,3205,1.5,,,
+04,2002,Valid Votes,209573,98.7,223069,99.1,,209155,98.5,,,
+04,2002,Fidesz-MDF,80450,38.4,112076,50.2,4,85712,41.0,3,,7
+04,2002,Hungarian Socialist Party (MSZP),83788,40.0,109595,49.1,3,88795,42.5,3,,6
+04,2002,Alliance of Free Democrats (SZDSZ),13728,6.6,1398,0.6,0,9122,4.4,0,,0
+04,2002,Hungarian Justice and Life Party (MI&Eacute;P),8681,4.1,-,-,0,7688,3.7,0,,0
+04,2002,Workers' Party (MP),6729,3.2,-,-,0,7498,3.6,0,,0
+04,2002,Center of Solidarity for Hungary (OMC),6928,3.3,-,-,0,7364,3.5,0,,0
+04,2002,Independent Smallholders' Party (FKgP),4219,2.0,-,-,0,2976,1.4,0,,0
+04,2002,Others,5050,2.4,-,-,0,-,-,-,,0
+05,2002,Registered Electors,578896,,311586,,,578896,,,,
+05,2002,Voters,393831,68.0,218003,70.0,,393831,68.0,,,
+05,2002,Invalid Ballots,3817,1.0,1323,0.6,,4544,1.2,,,
+05,2002,Valid Votes,389731,99.0,216627,99.4,,388984,98.8,,,
+05,2002,Hungarian Socialist Party (MSZP),177935,45.7,114977,53.1,9,186183,47.9,6,,15
+05,2002,Fidesz-MDF,146635,37.6,101650,46.9,4,147055,37.8,4,,8
+05,2002,Center of Solidarity for Hungary (OMC),18606,4.8,-,-,0,14483,3.7,0,,0
+05,2002,Hungarian Justice and Life Party (MI&Eacute;P),14567,3.7,-,-,0,14294,3.7,0,,0
+05,2002,Alliance of Free Democrats (SZDSZ),15540,4.0,-,-,0,13678,3.5,0,,0
+05,2002,Workers' Party (MP),10008,2.6,-,-,0,10437,2.7,0,,0
+05,2002,Independent Smallholders' Party (FKgP),2572,0.7,-,-,0,1826,0.5,0,,0
+05,2002,Others,3868,1.0,-,-,0,1028,0.3,0,,0
+06,2002,Registered Electors,338868,,291042,,,338868,,,,
+06,2002,Voters,228147,67.3,205114,70.5,,228147,67.3,,,
+06,2002,Invalid Ballots,2395,1.1,1235,0.6,,2880,1.3,,,
+06,2002,Valid Votes,225570,98.9,203832,99.4,,225087,98.7,,,
+06,2002,Fidesz-MDF,94439,41.9,101115,49.6,5,97143,43.2,3,,8
+06,2002,Hungarian Socialist Party (MSZP),91429,40.5,101175,49.6,2,91164,40.5,3,,5
+06,2002,Center of Solidarity for Hungary (OMC),7735,3.4,850,0.4,0,10322,4.6,0,,0
+06,2002,Alliance of Free Democrats (SZDSZ),10570,4.7,-,-,0,10087,4.5,0,,0
+06,2002,Hungarian Justice and Life Party (MI&Eacute;P),8492,3.8,-,-,0,8258,3.7,0,,0
+06,2002,Workers' Party (MP),5318,2.4,-,-,0,5457,2.4,0,,0
+06,2002,Independent Smallholders' Party (FKgP),4215,1.9,692,0.3,0,2338,1.0,0,,0
+06,2002,Others,3372,1.5,-,-,0,318,0.1,0,,0
+07,2002,Registered Electors,337379,,199896,,,337379,,,,
+07,2002,Voters,234866,69.6,143305,71.7,,234866,69.6,,,
+07,2002,Invalid Ballots,2007,0.9,764,0.5,,2322,1.0,,,
+07,2002,Valid Votes,232644,99.1,142502,99.5,,232368,99.0,,,
+07,2002,Fidesz-MDF,97139,41.8,77139,54.1,4,100835,43.4,3,,7
+07,2002,Hungarian Socialist Party (MSZP),101455,43.6,65363,45.9,3,98050,42.2,3,,6
+07,2002,Alliance of Free Democrats (SZDSZ),12482,5.4,-,-,0,11145,4.8,0,,0
+07,2002,Center of Solidarity for Hungary (OMC),7315,3.1,-,-,0,8971,3.9,0,,0
+07,2002,Hungarian Justice and Life Party (MI&Eacute;P),8285,3.6,-,-,0,7805,3.4,0,,0
+07,2002,Workers' Party (MP),3980,1.7,-,-,0,4417,1.9,0,,0
+07,2002,Independent Smallholders' Party (FKgP),1356,0.6,-,-,0,1145,0.5,0,,0
+07,2002,Others,632,0.3,-,-,0,-,-,-,,0
+08,2002,Registered Electors,349823,,149995,,,349823,,,,
+08,2002,Voters,258497,73.9,116709,77.8,,258497,73.9,,,
+08,2002,Invalid Ballots,2187,0.8,538,0.5,,2804,1.1,,,
+08,2002,Valid Votes,256010,99.2,116149,99.5,,255374,98.9,,,
+08,2002,Fidesz-MDF,126659,49.5,61826,53.2,6,130618,51.1,3,,9
+08,2002,Hungarian Socialist Party (MSZP),97555,38.1,54323,46.8,1,92538,36.2,2,,3
+08,2002,Alliance of Free Democrats (SZDSZ),11337,4.4,-,-,0,10459,4.1,0,,0
+08,2002,Hungarian Justice and Life Party (MI&Eacute;P),8228,3.2,-,-,0,8337,3.3,0,,0
+08,2002,Center of Solidarity for Hungary (OMC),7062,2.8,-,-,0,8246,3.2,0,,0
+08,2002,Workers' Party (MP),3060,1.2,-,-,0,3820,1.5,0,,0
+08,2002,Independent Smallholders' Party (FKgP),1571,0.6,-,-,0,1356,0.5,0,,0
+08,2002,Others,538,0.2,-,-,0,-,-,-,,0
+09,2002,Registered Electors,429781,,314256,,,429781,,,,
+09,2002,Voters,283478,66.0,214946,68.4,,283478,66.0,,,
+09,2002,Invalid Ballots,3415,1.2,1623,0.8,,3593,1.3,,,
+09,2002,Valid Votes,279824,98.8,213281,99.2,,279683,98.7,,,
+09,2002,Fidesz-MDF,127176,45.4,117692,55.2,9,133453,47.7,4,,13
+09,2002,Hungarian Socialist Party (MSZP),108983,38.9,83222,39.0,0,110581,39.5,3,,3
+09,2002,Alliance of Free Democrats (SZDSZ),15453,5.5,12367,5.8,0,10505,3.8,0,,0
+09,2002,Hungarian Justice and Life Party (MI&Eacute;P),8769,3.1,-,-,0,9102,3.3,0,,0
+09,2002,Center of Solidarity for Hungary (OMC),3083,1.1,-,-,0,7092,2.5,0,,0
+09,2002,Workers' Party (MP),3739,1.3,-,-,0,5013,1.8,0,,0
+09,2002,Independent Smallholders' Party (FKgP),6257,2.2,-,-,0,3521,1.3,0,,0
+09,2002,Others,6364,2.3,-,-,0,416,0.1,0,,0
+10,2002,Registered Electors,261600,,215481,,,261600,,,,
+10,2002,Voters,183447,70.1,159182,73.9,,183447,70.1,,,
+10,2002,Invalid Ballots,2002,1.1,899,0.6,,2358,1.3,,,
+10,2002,Valid Votes,181296,98.9,158260,99.4,,180945,98.7,,,
+10,2002,Hungarian Socialist Party (MSZP),86948,48.0,86562,54.7,6,85483,47.2,3,,9
+10,2002,Fidesz-MDF,62230,34.3,71698,45.3,0,66394,36.7,2,,2
+10,2002,Alliance of Free Democrats (SZDSZ),11891,6.6,-,-,0,8893,4.9,0,,0
+10,2002,Hungarian Justice and Life Party (MI&Eacute;P),8130,4.5,-,-,0,8007,4.4,0,,0
+10,2002,Workers' Party (MP),6001,3.3,-,-,0,5722,3.2,0,,0
+10,2002,Center of Solidarity for Hungary (OMC),1480,0.8,-,-,0,4732,2.6,0,,0
+10,2002,Independent Smallholders' Party (FKgP),1759,1.0,-,-,0,1199,0.7,0,,0
+10,2002,Others,2857,1.6,-,-,0,515,0.3,0,,0
+11,2002,Registered Electors,330935,,293675,,,330935,,,,
+11,2002,Voters,220562,66.6,207966,70.8,,220562,66.6,,,
+11,2002,Invalid Ballots,2665,1.2,1583,0.8,,3190,1.4,,,
+11,2002,Valid Votes,217738,98.8,206344,99.2,,217240,98.6,,,
+11,2002,Hungarian Socialist Party (MSZP),98571,45.3,107315,52.0,6,100256,46.1,3,,9
+11,2002,Fidesz-MDF,78519,36.1,99029,48.0,2,82467,38.0,2,,4
+11,2002,Alliance of Free Democrats (SZDSZ),14693,6.7,-,-,0,9580,4.4,0,,0
+11,2002,Workers' Party (MP),8495,3.9,-,-,0,8123,3.7,0,,0
+11,2002,Hungarian Justice and Life Party (MI&Eacute;P),7381,3.4,-,-,0,8000,3.7,0,,0
+11,2002,Center of Solidarity for Hungary (OMC),1686,0.8,-,-,0,5827,2.7,0,,0
+11,2002,Independent Smallholders' Party (FKgP),4664,2.1,-,-,0,2987,1.4,0,,0
+11,2002,Others,3729,1.7,-,-,0,-,-,-,,0
+12,2002,Registered Electors,250434,,203884,,,250434,,,,
+12,2002,Voters,177757,71.0,151222,74.2,,177757,71.0,,,
+12,2002,Invalid Ballots,1612,0.9,796,0.5,,1840,1.0,,,
+12,2002,Valid Votes,175992,99.1,150370,99.5,,175773,99.0,,,
+12,2002,Hungarian Socialist Party (MSZP),85266,48.4,85969,57.2,5,86711,49.3,3,,8
+12,2002,Fidesz-MDF,57096,32.4,64401,42.8,0,63889,36.3,2,,2
+12,2002,Alliance of Free Democrats (SZDSZ),9990,5.7,-,-,0,8867,5.0,0,,0
+12,2002,Center of Solidarity for Hungary (OMC),2349,1.3,-,-,0,5642,3.2,0,,0
+12,2002,Hungarian Justice and Life Party (MI&Eacute;P),5712,3.2,-,-,0,5452,3.1,0,,0
+12,2002,Workers' Party (MP),4030,2.3,-,-,0,3811,2.2,0,,0
+12,2002,Independent Smallholders' Party (FKgP),1544,0.9,-,-,0,984,0.6,0,,0
+12,2002,Others,10005,5.7,-,-,0,417,0.2,0,,0
+13,2002,Registered Electors,175037,,175053,,,175037,,,,
+13,2002,Voters,121282,69.3,128887,73.6,,121282,69.3,,,
+13,2002,Invalid Ballots,1177,1.0,862,0.7,,1441,1.2,,,
+13,2002,Valid Votes,120047,99.0,127990,99.3,,119783,98.8,,,
+13,2002,Hungarian Socialist Party (MSZP),50139,41.8,66471,51.9,2,52106,43.5,2,,4
+13,2002,Fidesz-MDF,46505,38.7,61519,48.1,2,46870,39.1,2,,4
+13,2002,Workers' Party (MP),8343,6.9,-,-,0,7996,6.7,0,,0
+13,2002,Alliance of Free Democrats (SZDSZ),5942,4.9,-,-,0,4658,3.9,0,,0
+13,2002,Hungarian Justice and Life Party (MI&Eacute;P),3819,3.2,-,-,0,4014,3.4,0,,0
+13,2002,Center of Solidarity for Hungary (OMC),3013,2.5,-,-,0,3076,2.6,0,,0
+13,2002,Independent Smallholders' Party (FKgP),705,0.6,-,-,0,577,0.5,0,,0
+13,2002,Others,1581,1.3,-,-,0,486,0.4,0,,0
+14,2002,Registered Electors,850478,,850950,,,850478,,,,
+14,2002,Voters,600436,70.6,631708,74.2,,600436,70.6,,,
+14,2002,Invalid Ballots,6004,1.0,3639,0.6,,6348,1.1,,,
+14,2002,Valid Votes,593890,99.0,627820,99.4,,593530,98.9,,,
+14,2002,Fidesz-MDF,236147,39.8,325022,51.8,11,243567,41.0,6,,17
+14,2002,Hungarian Socialist Party (MSZP),237710,40.0,278205,44.3,4,239008,40.3,6,,10
+14,2002,Alliance of Free Democrats (SZDSZ),51393,8.7,24593,3.9,1,39468,6.6,1,,2
+14,2002,Hungarian Justice and Life Party (MI&Eacute;P),37385,6.3,-,-,0,33559,5.7,0,,0
+14,2002,Center of Solidarity for Hungary (OMC),10782,1.8,-,-,0,23468,4.0,0,,0
+14,2002,Workers' Party (MP),5459,0.9,-,-,0,9356,1.6,0,,0
+14,2002,Independent Smallholders' Party (FKgP),8201,1.4,-,-,0,4102,0.7,0,,0
+14,2002,Others,6813,1.1,-,-,0,1002,0.2,0,,0
+15,2002,Registered Electors,267459,,267392,,,267459,,,,
+15,2002,Voters,181757,68.0,197157,73.7,,181757,68.0,,,
+15,2002,Invalid Ballots,1665,0.9,1213,0.6,,2047,1.1,,,
+15,2002,Valid Votes,179968,99.1,195906,99.4,,179613,98.9,,,
+15,2002,Fidesz-MDF,74661,41.5,103370,52.8,5,78954,44.0,2,,7
+15,2002,Hungarian Socialist Party (MSZP),72407,40.2,92536,47.2,1,74494,41.5,2,,3
+15,2002,Center of Solidarity for Hungary (OMC),13304,7.4,-,-,0,8023,4.5,0,,0
+15,2002,Alliance of Free Democrats (SZDSZ),7392,4.1,-,-,0,6581,3.7,0,,0
+15,2002,Hungarian Justice and Life Party (MI&Eacute;P),5324,3.0,-,-,0,6042,3.4,0,,0
+15,2002,Workers' Party (MP),2834,1.6,-,-,0,3508,2.0,0,,0
+15,2002,Independent Smallholders' Party (FKgP),3292,1.8,-,-,0,2011,1.1,0,,0
+15,2002,Others,754,0.4,-,-,0,-,-,-,,0
+16,2002,Registered Electors,442579,,349945,,,442579,,,,
+16,2002,Voters,291330,65.8,248240,70.9,,291330,65.8,,,
+16,2002,Invalid Ballots,3506,1.2,1874,0.8,,4177,1.4,,,
+16,2002,Valid Votes,287585,98.8,246311,99.2,,286920,98.6,,,
+16,2002,Fidesz-MDF,113742,39.6,129911,52.7,8,129086,45.0,4,,12
+16,2002,Hungarian Socialist Party (MSZP),82788,28.8,72514,29.4,2,122292,42.6,4,,6
+16,2002,MSZP-MSZDP joint candidates,41461,14.4,40709,16.5,0,-,-,-,,0
+16,2002,Center of Solidarity for Hungary (OMC),14862,5.2,3177,1.3,0,9891,3.4,0,,0
+16,2002,Hungarian Justice and Life Party (MI&Eacute;P),9647,3.4,-,-,0,8057,2.8,0,,0
+16,2002,Alliance of Free Democrats (SZDSZ),11868,4.1,-,-,0,7822,2.7,0,,0
+16,2002,Workers' Party (MP),3253,1.1,-,-,0,4136,1.4,0,,0
+16,2002,Independent Smallholders' Party (FKgP),7166,2.5,-,-,0,3979,1.4,0,,0
+16,2002,Others,2798,1.0,-,-,0,1657,0.6,0,,0
+17,2002,Registered Electors,198884,,198849,,,198884,,,,
+17,2002,Voters,136289,68.5,149776,75.3,,136289,68.5,,,
+17,2002,Invalid Ballots,1404,1.0,1145,0.8,,1655,1.2,,,
+17,2002,Valid Votes,134772,99.0,148597,99.2,,134491,98.8,,,
+17,2002,Fidesz-MDF,56395,41.8,80693,54.3,4,59410,44.2,2,,6
+17,2002,Hungarian Socialist Party (MSZP),52591,39.0,48339,32.5,1,55162,41.0,2,,3
+17,2002,Alliance of Free Democrats (SZDSZ),10016,7.4,19565,13.2,0,6794,5.1,0,,0
+17,2002,Hungarian Justice and Life Party (MI&Eacute;P),6044,4.5,-,-,0,5280,3.9,0,,0
+17,2002,Center of Solidarity for Hungary (OMC),2838,2.1,-,-,0,3817,2.8,0,,0
+17,2002,Workers' Party (MP),3019,2.2,-,-,0,2998,2.2,0,,0
+17,2002,Independent Smallholders' Party (FKgP),1262,0.9,-,-,0,1030,0.8,0,,0
+17,2002,Others,2607,1.9,-,-,0,-,-,-,,0
+18,2002,Registered Electors,214610,,86622,,,214610,,,,
+18,2002,Voters,159184,74.2,65255,75.3,,159184,74.2,,,
+18,2002,Invalid Ballots,1658,1.0,307,0.5,,1855,1.2,,,
+18,2002,Valid Votes,157383,99.0,64941,99.5,,157224,98.8,,,
+18,2002,Fidesz-MDF,81016,51.5,38063,58.6,4,84090,53.5,3,,7
+18,2002,MSZP-SZDSZ joint candidates,27892,17.7,13101,20.2,1,-,-,-,,1
+18,2002,Hungarian Socialist Party (MSZP),28920,18.4,13777,21.2,0,50919,32.4,1,,1
+18,2002,Alliance of Free Democrats (SZDSZ),4051,2.6,-,-,0,8503,5.4,0,,0
+18,2002,Center of Solidarity for Hungary (OMC),4854,3.1,-,-,0,5639,3.6,0,,0
+18,2002,Hungarian Justice and Life Party (MI&Eacute;P),6617,4.2,-,-,0,4817,3.1,0,,0
+18,2002,Workers' Party (MP),1334,0.8,-,-,0,1915,1.2,0,,0
+18,2002,Independent Smallholders' Party (FKgP),2143,1.4,-,-,0,1153,0.7,0,,0
+18,2002,Others,556,0.4,-,-,0,188,0.1,0,,0
+19,2002,Registered Electors,295266,,134031,,,295266,,,,
+19,2002,Voters,214379,72.6,98846,73.7,,214379,72.6,,,
+19,2002,Invalid Ballots,1911,0.9,541,0.5,,2284,1.1,,,
+19,2002,Valid Votes,212347,99.1,98259,99.5,,211955,98.9,,,
+19,2002,Fidesz-MDF,102244,48.1,48621,49.5,6,101902,48.1,3,,9
+19,2002,Hungarian Socialist Party (MSZP),74833,35.2,49638,50.5,1,78417,37.0,2,,3
+19,2002,Alliance of Free Democrats (SZDSZ),13962,6.6,-,-,0,11117,5.2,0,,0
+19,2002,Center of Solidarity for Hungary (OMC),8513,4.0,-,-,0,7918,3.7,0,,0
+19,2002,Hungarian Justice and Life Party (MI&Eacute;P),6578,3.1,-,-,0,7105,3.4,0,,0
+19,2002,Workers' Party (MP),3237,1.5,-,-,0,3773,1.8,0,,0
+19,2002,Independent Smallholders' Party (FKgP),2015,0.9,-,-,0,1040,0.5,0,,0
+19,2002,Others,965,0.5,-,-,0,683,0.3,0,,0
+20,2002,Registered Electors,239573,,144541,,,239573,,,,
+20,2002,Voters,169474,70.7,108607,75.1,,169474,70.7,,,
+20,2002,Invalid Ballots,1532,0.9,535,0.5,,1763,1.0,,,
+20,2002,Valid Votes,167817,99.1,108037,99.5,,167563,99.0,,,
+20,2002,Fidesz-MDF,83601,49.8,56838,52.6,4,82925,49.5,3,,7
+20,2002,Hungarian Socialist Party (MSZP),60112,35.8,51199,47.4,1,61104,36.5,2,,3
+20,2002,Alliance of Free Democrats (SZDSZ),9689,5.8,-,-,0,7484,4.5,0,,0
+20,2002,Hungarian Justice and Life Party (MI&Eacute;P),7262,4.3,-,-,0,6295,3.8,0,,0
+20,2002,Center of Solidarity for Hungary (OMC),2904,1.7,-,-,0,5436,3.2,0,,0
+20,2002,Workers' Party (MP),1741,1.0,-,-,0,2818,1.7,0,,0
+20,2002,Independent Smallholders' Party (FKgP),2300,1.4,-,-,0,1501,0.9,0,,0
+20,2002,Others,208,0.1,-,-,0,-,-,-,,0

@@ -1,0 +1,11 @@
+"Region","Year","Party","FirstRoundVotes","FirstRoundVotesPercentage","SecondRoundVotes","SecondRoundVotesPercentage","SingleMemberSeats","ListVotes","ListVotesPercentage","ListSeats","NationalListSeats","TotalSeats","Coalition","TotalSeatsPercentage"
+"HU",2006,"Hungarian Socialist Party (MSZP)",2175312,40.3,1510360,46.6,98,"2336705","43.2","71","17",186,"No",0.481865284974093
+"HU",2006,"Fidesz-Hungarian Civic Union-KDNP",2269241,42,1511426,46.7,68,"2272979","42.0","69","27",164,"No",0.424870466321244
+"HU",2006,"Alliance of Free Democrats (SZDSZ)",340746,6.3,64501,2,3,"351612","6.5","4","11",18,"No",0.0466321243523316
+"HU",2006,"Hungarian Democratic Forum (MDF)",238566,4.4,16364,0.5,0,"272831","5.0","2","9",11,"No",0.0284974093264249
+"HU",2006,"MSZP-SZDSZ joint candidates",154619,2.9,72802,2.2,6,"-","-","-","-",6,"No",0.0155440414507772
+"HU",2006,"Association for Somogy",9457,0.2,13801,0.4,1,"-","-","-","-",1,"No",0.00259067357512953
+"HU",2006,"MIÉP-Jobbik Third Way Alliance of Parties",92798,1.7,231,0,0,"119007","2.2","0","0",0,"No",0
+"HU",2006,"MDF-Fidesz-KDNP joint candidates",34109,0.6,33029,1,0,"-","-","-","-",0,"No",0
+"HU",2006,"MDF-Others joint candidates",14838,0.3,3640,0.1,0,"-","-","-","-",0,"No",0
+"HU",2006,"Others",73989,1.4,13598,0.4,0,"54916","1.0","0","0",0,"No",0

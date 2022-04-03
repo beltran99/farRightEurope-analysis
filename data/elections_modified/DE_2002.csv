@@ -1,0 +1,10 @@
+"Region","Year","Party","FirstRoundVotes","FirstRoundVotesPercentage","DirectSeats","SecondRoundVotes","SecondRoundVotesPercentage","ListSeats","TotalSeats","Coalition","TotalSeatsPercentage"
+"DE",2002,"Social Democratic Party of Germany (SPD)",20059967,41.9,171,18488668,38.5,80,251,"No",0.416252072968491
+"DE",2002,"Christian Democratic Union (CDU)",15336512,32.1,82,14167561,29.5,108,190,"No",0.315091210613599
+"DE",2002,"Christian Social Union (CSU)",4311178,9,43,4315080,9,15,58,"No",0.0961857379767828
+"DE",2002,"Alliance 90/The Greens",2693794,5.6,1,4110355,8.6,54,55,"No",0.0912106135986733
+"DE",2002,"Free Democratic Party (F.D.P.)",2752796,5.8,0,3538815,7.4,47,47,"No",0.0779436152570481
+"DE",2002,"Party of Democratic Socialism (PDS)",2079203,4.3,2,1916702,4,0,2,"No",0.0033167495854063
+"DE",2002,"Schill Party for Germany",120330,0.3,0,400476,0.8,0,0,"No",0
+"DE",2002,"The Republicans",55947,0.1,0,280671,0.6,0,0,"No",0
+"DE",2002,"Others",431997,0.9,0,778152,1.6,0,0,"No",0

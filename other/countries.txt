@@ -1,0 +1,28 @@
+Austria - AT
+Belgium - BE
+Bulgaria - BG
+Switzerland - CH
+Czech Republic - CZ
+Germany - DE
+Denmark - DK
+Estonia - EE
+Spain - ES
+Finland - FI
+France - FR
+Greece - GK
+Hungary - HU
+Ireland - IE
+Iceland - IS
+Italy - IT
+Luxembourg - LU
+Latvia - LV
+Netherlands - NL
+Norway - NO
+Poland - PL
+Portugal - PT
+Sweeden - SE
+Slovenia - SI
+Slovakia - SK
+Turkey - TR
+Ukraine - UA
+United Kingdom - UK

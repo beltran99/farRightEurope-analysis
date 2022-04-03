@@ -1,0 +1,9 @@
+"Region","Year","Party","FirstRoundVotes","FirstRoundVotesPercentage","DirectSeats","SecondRoundVotes","SecondRoundVotesPercentage","ListSeats","TotalSeats","Coalition","TotalSeatsPercentage"
+"DE",2017,"Christian Democratic Union (CDU)",14030751,30.2,185,12447656,26.8,15,200,"No",0.282087447108604
+"DE",2017,"Christian Social Union (CSU)",3255487,7,46,2869688,6.2,0,46,"No",0.0648801128349788
+"DE",2017,"Social Democratic Party of Germany (SPD)",11429231,24.6,59,9539381,20.5,94,153,"No",0.215796897038082
+"DE",2017,"Alternative for Germany (AfD)",5317499,11.5,3,5878115,12.6,91,94,"No",0.132581100141044
+"DE",2017,"Free Democratic Party (F.D.P.)",3249238,7,0,4999449,10.7,80,80,"No",0.112834978843441
+"DE",2017,"The Left. (DIE LINKE)",3966637,8.6,5,4297270,9.2,64,69,"No",0.0973201692524683
+"DE",2017,"Alliance 90/The Greens (GRÜNE)",3717922,8,1,4158400,8.9,66,67,"No",0.0944992947813822
+"DE",2017,"Others",1422850,3.1,0,2325533,5,0,0,"No",0

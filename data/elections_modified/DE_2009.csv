@@ -1,0 +1,11 @@
+"Region","Year","Party","FirstRoundVotes","FirstRoundVotesPercentage","DirectSeats","SecondRoundVotes","SecondRoundVotesPercentage","ListSeats","TotalSeats","Coalition","TotalSeatsPercentage"
+"DE",2009,"Christian Democratic Union (CDU)",13856674,32,173,11828277,27.3,21,194,"No",0.311897106109325
+"DE",2009,"Christian Social Union (CSU)",3191000,7.4,45,2830238,6.5,0,45,"No",0.0723472668810289
+"DE",2009,"Social Democratic Party of Germany (SPD)",12079758,27.9,64,9990488,23,82,146,"No",0.234726688102894
+"DE",2009,"Free Democratic Party (F.D.P.)",4076496,9.4,0,6316080,14.6,93,93,"No",0.14951768488746
+"DE",2009,"The Left. (DIE LINKE)",4791124,11.1,16,5155933,11.9,60,76,"No",0.122186495176849
+"DE",2009,"Alliance 90/The Greens (GRÜNE)",3977125,9.2,1,4643272,10.7,67,68,"No",0.109324758842444
+"DE",2009,"Pirate Party of Germany (PIRATEN)",46770,0.1,0,847870,2,0,0,"No",0
+"DE",2009,"National Democratic Party of Germany (NPD)",768442,1.8,0,635525,1.5,0,0,"No",0
+"DE",2009,"The Republicans (REP)",30061,0.1,0,193396,0.4,0,0,"No",0
+"DE",2009,"Others",430550,1,0,930111,2.1,0,0,"No",0
